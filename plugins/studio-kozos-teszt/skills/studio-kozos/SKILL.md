@@ -5,7 +5,7 @@ description: Use when the person says "közös plugin teszt" or asks which Studi
 
 # Közös plugin teszt
 
-1. Write first, on its own line: `KOZOS-JEL v0.1.0`.
+1. Write first, on its own line: `KOZOS-JEL v0.1.1`.
 2. Find every tool whose name ends in `studio_allapot`. Each one belongs to one connected Studio.
 3. Call each of them once. From each answer take the site's name and host.
 4. List the sites as `- <name> · <host> · <the tool name prefix>`.
