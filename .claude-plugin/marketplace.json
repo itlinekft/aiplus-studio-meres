@@ -1,0 +1,9 @@
+{
+  "name": "aiplus-studio-meres",
+  "owner": { "name": "ITLine (temporary measurement)" },
+  "description": "Temporary measurement marketplace, invented test plugin only. Will be removed.",
+  "plugins": [
+    { "name": "studio-kozos-teszt", "source": "./plugins/studio-kozos-teszt", "version": "0.1.0",
+      "description": "Measurement plugin: one generic skill that finds the connected Studio connectors and picks a site." }
+  ]
+}
